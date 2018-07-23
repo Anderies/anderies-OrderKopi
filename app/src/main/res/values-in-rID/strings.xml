@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">JustJava</string>
+    <string name="enter_your_name">Masukkan Nama Anda</string>
+    <string name="toppings">Varian</string>
+    <string name="oreo">Oreo</string>
+    <string name="bengbeng">Beng Beng</string>
+    <string name="jumlah">Jumlah</string>
+    <string name="harga">Harga</string>
+    <string name="keteranganPesanan">Keterangan Pesanan</string>
+    <string name="terimakasih">Terima Kasih</string>
+    <string name="totalHarga">Total Harga Rp.</string>
+    <string name="pakaiOreo">Pakai Oreo?</string>
+    <string name="pakaiBeng">Pakai Beng Beng?</string>
+    <string name="nama">Nama:</string>
+</resources>

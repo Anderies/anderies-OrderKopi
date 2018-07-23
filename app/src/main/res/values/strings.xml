@@ -1,0 +1,19 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">JustJava</string>
+    <string name="enter_your_name">Enter Your Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="oreo">Oreo Toppings</string>
+    <string name="bengbeng">Beng Beng Toppings</string>
+    <string name="jumlah">Quantity</string>
+    <string name="harga">Price</string>
+    <string name="keteranganPesanan">Order Summary</string>
+
+
+    <string name="terimakasih">Thank You</string>
+    <string name="totalHarga">Total Price Rp.</string>
+    <string name="pakaiOreo">Use Oreo?</string>
+    <string name="pakaiBeng">Use Beng Beng?</string>
+
+    <string name="nama">Name: <xliff:g id="name" example="amy">%s</xliff:g></string>
+
+</resources>
